@@ -53,11 +53,11 @@ The number of synonyms for each category
 
 材料-魚介	サケ	E:salted salmon in brine
 
-# Contact
-
-<a href="http://nlp.indsys.chuo-u.ac.jp/index_en.html">Hidetsugu Nanba</a> (Professor, Chuo University, Japan)
-
 
 # Research
 
 Nanba, H., Doi, Y., Takezawa, T., Sumiya, K., and Tsujita, M. (2014) “<a href="https://dl.acm.org/doi/10.1145/2638728.2641328">Construction of a Cooking Ontology from Cooking Recipes and Patents</a>”. In Proceedings of Workshop on Smart Technologyfor Cooking and Eating Activities : CEA2014 (CEA 2014) , 507-516.
+
+# Contact
+
+<a href="http://nlp.indsys.chuo-u.ac.jp/index_en.html">Hidetsugu Nanba</a> (Professor, Chuo University, Japan)
