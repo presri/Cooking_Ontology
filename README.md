@@ -1,3 +1,5 @@
+# Cooking Ontology for Japanese and English
+
 This cooking ontology was constructed through pattern matching, statistical natural language processing techniques, and manual work to identify hyponymy, synonymy, attribution, and melonymy.
 
 # Data
