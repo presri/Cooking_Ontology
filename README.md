@@ -53,6 +53,10 @@ The number of synonyms for each category
 
 材料-魚介	サケ	E:salted salmon in brine
 
+# Contact
+
+<a href="http://nlp.indsys.chuo-u.ac.jp/index_en.html">Hidetsugu Nanba</a> (Professor, Chuo University, Japan)
+
 
 # Research
 
